@@ -2,7 +2,7 @@
 
 > *"I can find the metric in the madness and the story in the data."* 
 
-Welcome to the backend of my brain. This repository houses the code for my personal portfolio—a digital space where my two worlds collide. 
+Welcome to the backend of my brain. This repository houses the code for my personal portfolio : a digital space where my two worlds collide. 
 
 Some people read spreadsheets; some make art. I like to live in the messy, magical middle. I am the rare kind of creative who scripts the viral reel, builds the Looker Studio dashboard to prove it worked, and then presents the ROI directly to executives without blinking. 
 
