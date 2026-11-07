@@ -16,7 +16,7 @@ This site is a curated exhibition of my dual life as an Analyst and a Creative L
 
 ### 🛠️ The Tech Stack
 *This space is built with:*
-- **Frontend:** [Insert HTML5, CSS3, JavaScript, or React/Next.js]
+- **Frontend:** HTML5
 - **Design/Aesthetic:** Custom retro 70s vector art, deep color blocking, and fluid grids.
 - **Analytics (Behind the scenes):** [Insert Google Analytics, Vercel Analytics, etc.]
 
